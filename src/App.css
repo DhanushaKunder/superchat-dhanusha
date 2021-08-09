@@ -69,7 +69,7 @@ main::-webkit-scrollbar-thumb {
 form {
   height: 10vh;
   position: fixed;
-  bottom: 7.2rem;
+  bottom: 6.2rem;
   background-color: #0f1805;
   width: 100%;
   max-width: 728px;
@@ -97,6 +97,7 @@ input {
   color: #dbd5ec;
   outline: none;
   border: none;
+  margin-bottom: 0;
   padding: 0 10px;
   border-bottom-left-radius: 2rem;
   border-bottom-right-radius: 1rem;
